@@ -162,7 +162,10 @@ main{
     border-radius: 50px;
     font-size: 1.2rem;
     font-weight: 600;
-
+    color: white;
+}
+.btn-get-started:hover{
+    background-color: gray;
 }
 .btn-signing-main{
     text-decoration: none;
